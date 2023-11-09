@@ -1,24 +1,20 @@
 ## **Koroleva Elena** Frontend developer
 
-<div style="background-color: #5baaab; height: 2px;"></div>
 
 ### Contacts 
-<div style="background-color: #5baaab; height: 1px;"></div>
-
-[telegram](https://t.me/berriestime) Moscow, Russia 
+- Location: Moscow, Russia
+- Telegram: [@berriestime](https://t.me/berriestime)
+- GitHub: [@berriestime](https://github.com/berriestime)
 
 ### Profile summary
-<div style="background-color: #5baaab; height: 1px;"></div>
 
 I am a motivated individual with a strong interest in frontend technologies such as TypeScript and React. I have prior experience as a fullstack developer and possess database management skills. Currently, I am seeking an opportunity to join a dynamic team where I can apply and further enhance my skills.
 
 ### Work expirience
-<div style="background-color: #5baaab; height: 1px;"></div>
 
-- Alfa Bank, junior developer <div style="color: #5baaab">2020-2021</div>
-- School 21, developer <div style="color: #5baaab">2021-2022</div>
+- Alfa Bank, junior developer 2020-2021
+- School 21, developer 2021-2022
 ### Hard skills
-<div style="background-color: #5baaab; height: 1px;"></div>
 
 - TS/JS
 - React
@@ -27,26 +23,30 @@ I am a motivated individual with a strong interest in frontend technologies such
 - SQL
 - Python
 - C
-### Interest
-<div style="background-color: #5baaab; height: 1px;"></div>
+### Interests
 
 Video games, board games, history, interacting with people, sport for health and productivity, lifelong learning
 
 ### JavaScript code example:
-<div style="background-color: #5baaab; height: 1px;"></div>
 
 ```
-console.log('Hello World!');
+function fibonacci(n, memo = {}) {
+  if (n < 2)
+    return n;
+   if (memo[n]) {
+    return memo[n];
+  }
+  memo[n] = fibonacci(n - 1, memo) + fibonacci(n - 2, memo);
+  return memo[n];
+}
 ```
 
 ### Education
-<div style="background-color: #5baaab; height: 1px;"></div>
 
-- Ecole 42, Paris <div style="color: #5baaab">2019-2022</div>
-- itGirls, frontend <div style="color: #5baaab">2022-2023</div> 
+- Ecole 42, Paris 2019-2022
+- itGirls, frontend 2022-2023 
 
 ### English Language
-<div style="background-color: #5baaab; height: 1px;"></div>
 
 Upper Intermediate(B2)
  - Practiced English language skills during a six-month period in my previous job, where I regularly had calls with French colleagues to update our work.
